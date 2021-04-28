@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,9 +13,10 @@ namespace Task5
 {
     class Program
     {
-        static void Print(string msg, int x, int y)
+        static void Print(string msg)
         {
-            Console.SetCursorPosition(x, y);
+
+            Console.SetCursorPosition(Console.WindowWidth / 2 - msg.Length / 2, Console.WindowHeight / 2 - 1);
             Console.WriteLine(msg);
         }
 
@@ -27,10 +28,9 @@ namespace Task5
 
             string info = "Имя: " + name + " | Фамилия: " + surname + " | Город: " + city;
 
-            Print(info, 35, 13);
+            Print(info);
 
 
-            Console.Write("Нажмите любую кравишу, чтобы продолжить");
             Console.ReadKey();
         }
     }
