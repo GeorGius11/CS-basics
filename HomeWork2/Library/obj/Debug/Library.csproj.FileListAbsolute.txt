@@ -1,0 +1,6 @@
+E:\CS-Basics\HomeWork2\Library\bin\Debug\Library.dll
+E:\CS-Basics\HomeWork2\Library\bin\Debug\Library.pdb
+E:\CS-Basics\HomeWork2\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\CS-Basics\HomeWork2\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\CS-Basics\HomeWork2\Library\obj\Debug\Library.dll
+E:\CS-Basics\HomeWork2\Library\obj\Debug\Library.pdb
