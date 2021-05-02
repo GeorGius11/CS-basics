@@ -8,7 +8,6 @@ using Library;
 //Рыбко Георгий
 //1. Написать метод, возвращающий минимальное из трёх чисел.
 
-///////
 namespace HomeWork_2
 {
     class Program
