@@ -1,0 +1,14 @@
+E:\CS-Basics\HomeWork5\Ефыл4\bin\Debug\Ефыл4.exe.config
+E:\CS-Basics\HomeWork5\Ефыл4\bin\Debug\Ефыл4.exe
+E:\CS-Basics\HomeWork5\Ефыл4\bin\Debug\Ефыл4.pdb
+E:\CS-Basics\HomeWork5\Ефыл4\obj\Debug\Task4.csprojAssemblyReference.cache
+E:\CS-Basics\HomeWork5\Ефыл4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+E:\CS-Basics\HomeWork5\Ефыл4\obj\Debug\Ефыл4.exe
+E:\CS-Basics\HomeWork5\Ефыл4\obj\Debug\Ефыл4.pdb
+E:\CS-Basics\HomeWork5\Task4\bin\Debug\Ефыл4.exe.config
+E:\CS-Basics\HomeWork5\Task4\bin\Debug\Ефыл4.exe
+E:\CS-Basics\HomeWork5\Task4\bin\Debug\Ефыл4.pdb
+E:\CS-Basics\HomeWork5\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+E:\CS-Basics\HomeWork5\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+E:\CS-Basics\HomeWork5\Task4\obj\Debug\Ефыл4.exe
+E:\CS-Basics\HomeWork5\Task4\obj\Debug\Ефыл4.pdb
