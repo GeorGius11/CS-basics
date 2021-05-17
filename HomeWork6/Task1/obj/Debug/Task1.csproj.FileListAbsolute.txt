@@ -1,0 +1,7 @@
+E:\CS-Basics\HomeWork6\Task1\bin\Debug\HomeWork6.exe.config
+E:\CS-Basics\HomeWork6\Task1\bin\Debug\HomeWork6.exe
+E:\CS-Basics\HomeWork6\Task1\bin\Debug\HomeWork6.pdb
+E:\CS-Basics\HomeWork6\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\CS-Basics\HomeWork6\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\CS-Basics\HomeWork6\Task1\obj\Debug\HomeWork6.exe
+E:\CS-Basics\HomeWork6\Task1\obj\Debug\HomeWork6.pdb
