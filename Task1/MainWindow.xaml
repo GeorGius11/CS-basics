@@ -1,0 +1,24 @@
+﻿<Window x:Class="HomeWork7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeWork7"
+        mc:Ignorable="d"
+        Title="Do The Number Game" Height="278" Width="268">
+    <Grid Margin="0,0,0,-16">
+        <Button x:Name="AddOneButton" Content="+1" HorizontalAlignment="Left" Margin="150,95,0,0" VerticalAlignment="Top" Width="93" Click="AddOneButton_Click" Height="25" FontWeight="Bold" IsEnabled="False"/>
+        <Button x:Name="MultBy2Button" Content="x2" HorizontalAlignment="Left" Margin="150,145,0,0" VerticalAlignment="Top" Click="MultBy2Button_Click" Width="93" Height="23" FontWeight="Bold" IsEnabled="False"/>
+        <Button x:Name="Reset" Content="Reset" HorizontalAlignment="Left" Margin="150,194,0,0" VerticalAlignment="Top" Click="Reset_Click" Width="93" Height="23" FontWeight="Bold" IsEnabled="False"/>
+        <Label x:Name="Number" Content="1" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.555,0.445" Height="55" Width="135" FontSize="40"/>
+        <Label x:Name="NumOfActs" Content="0" HorizontalAlignment="Left" Margin="178,36,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.874,0.28" FontWeight="Bold" FontSize="15"/>
+        <Menu x:Name="Menu" VerticalAlignment="Top" Height="31" HorizontalContentAlignment="Center">
+            <Button x:Name="Play" Content="Play" Width="112" Click="Play_Click" Height="28" FontWeight="Bold" HorizontalAlignment="Center"/>
+        </Menu>
+        <Label Content="Number of actions:" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="15"/>
+        <Button x:Name="ReturnButton" Content="Step back" HorizontalAlignment="Left" Margin="10,194,0,0" VerticalAlignment="Top" Height="23" Width="93" Click="ReturnButton_Click" FontWeight="Bold" IsEnabled="False"/>
+        <Label x:Name="LabelGuessNum" Content="Guess number:" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Width="126" FontWeight="Bold" FontSize="15" Visibility="Hidden"/>
+        <Label x:Name="SearchedNum" Content="" HorizontalAlignment="Left" Margin="178,65,0,0" VerticalAlignment="Top" Width="44" FontSize="15" FontWeight="Bold" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
