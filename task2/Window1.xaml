@@ -1,0 +1,16 @@
+﻿<Window x:Class="task2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task2"
+        mc:Ignorable="d"
+        Title="Window1" Height="270" Width="468">
+    <Grid Margin="0,0,0,-16">
+        <TextBox x:Name="UserInput" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="314" TextChanged="UserInput_TextChanged" Height="34" FontWeight="Bold" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" KeyDown="SaveButton_KeyDown" Margin="0,106,0,0"/>
+        <Label x:Name="MessageForUser" Content="Input the num" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" Height="44" Width="300" FontWeight="Bold" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label x:Name="Attempts" Content="Attempts:" HorizontalAlignment="Left" Margin="165,171,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="NumOfAttempts" Content="0" HorizontalAlignment="Left" Margin="275,171,0,0" VerticalAlignment="Top" Width="116" Height="34" FontSize="18" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
